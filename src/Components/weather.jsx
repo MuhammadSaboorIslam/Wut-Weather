@@ -1,6 +1,5 @@
 import React,{useState} from 'react'
 import "./weather.css" 
-import searchIcon from "./Assets/search.png"
 import clear from "./Assets/clear.png"
 import cloud from "./Assets/cloud.png"
 import drizzle from "./Assets/drizzle.png"
@@ -14,7 +13,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 
 function Weather() {
-    let apiKey = "0103960a6b8d6a1f8225dacd3f914659";
+    const apiKey = process.env.REACT_APP_API_KEY;
     const [temp,setTemp] = useState("0")
     const [humid , setHumid] = useState("0")
     const [wind , setwind] = useState("0")
