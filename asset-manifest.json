@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wut-Weather/static/css/main.0057e6d9.css",
+    "main.js": "/Wut-Weather/static/js/main.5b5a08ca.js",
+    "static/js/787.cf649bb5.chunk.js": "/Wut-Weather/static/js/787.cf649bb5.chunk.js",
+    "static/media/cloud.png": "/Wut-Weather/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Wut-Weather/index.html",
+    "main.0057e6d9.css.map": "/Wut-Weather/static/css/main.0057e6d9.css.map",
+    "main.5b5a08ca.js.map": "/Wut-Weather/static/js/main.5b5a08ca.js.map",
+    "787.cf649bb5.chunk.js.map": "/Wut-Weather/static/js/787.cf649bb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0057e6d9.css",
+    "static/js/main.5b5a08ca.js"
+  ]
+}
